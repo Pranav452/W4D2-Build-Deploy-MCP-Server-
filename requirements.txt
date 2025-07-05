@@ -1,0 +1,6 @@
+fastapi>=0.100.0
+uvicorn>=0.24.0
+sqlmodel==0.0.14
+textblob==0.17.1
+textstat==0.7.3
+typing-extensions>=4.5.0 
